@@ -1,1 +1,2 @@
-This is the first file in the git folder just to check the git and to upload the file in git local repostory and push it into Github
+This is the first file in the git folder just to check the git and to upload the file in git local repostory and push it into Github.
+Now I am changing so that i could check whether it is working or not....
